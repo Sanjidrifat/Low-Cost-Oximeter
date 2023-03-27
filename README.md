@@ -23,8 +23,8 @@ Jumper wires
 #### Installation
 
 Clone or download the project code from this repository.  
-Connect the components according to the schematic provided in the schematic.png file.  
-Open the pulse_oximeter.ino file in the Arduino IDE.  
+Connect the components according to the schematic provided in the _Interfacing MAX30100 Pulse Oximeter Sensor with Arduino_ file.  
+Open the _pulse_oximeter.ino_ file in the Arduino IDE.  
 Upload the code to the Arduino Uno board.  
 Power on the system using the 9V battery.
 
