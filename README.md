@@ -21,7 +21,9 @@ Breadboard
 Jumper wires  
 9V battery  
 
-#### Installation
+#### Installation and Connection
+
+![Slide2](https://github.com/Sanjidrifat/Low-Cost-Pulse-Oximeter/assets/56880721/6856b8c5-cbf6-432a-b5c0-c4da0f26367c)
 
 Clone or download the project code from this repository.  
 Connect the components according to the schematic provided in the _Interfacing MAX30100 Pulse Oximeter Sensor with Arduino_ file.  
