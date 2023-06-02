@@ -1,6 +1,7 @@
 # Low-Cost-Oximeter
 
 This project is a low cost solution for monitoring blood oxygen saturation (SpO2) and pulse rate using an Arduino Uno microcontroller and a MAX30100 pulse oximeter sensor.
+![Picture1](https://github.com/Sanjidrifat/Low-Cost-Pulse-Oximeter/assets/56880721/60b9ec2a-c69a-4e96-8d6d-206afa4396be)
 
 ## Features
 
